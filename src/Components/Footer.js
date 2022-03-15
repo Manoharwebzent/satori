@@ -8,7 +8,7 @@ function Footer() {
           <div className="container">
             <div className="row">
               <div className="col-lg-3 col-md-6 footer-contact">
-                <h3>Satori</h3>
+                <h3>About</h3>
                 <p>
                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis, suscipit. <br /><br />
                   <strong>Phone:</strong> +1 5589 55488 55<br />
